@@ -1,0 +1,17 @@
+.header {
+  overflow: hidden;
+  background-color: rgb(131, 117, 145);
+  /*padding: right;*/
+}
+.horizontal-list {
+  list-style-type: none;
+  margin: 10;
+  padding: 30px;
+  overflow: hidden;
+  background-color: #beaeae;
+}
+
+li {
+  float: left;
+  padding: 50px;
+}
